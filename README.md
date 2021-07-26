@@ -2,7 +2,8 @@
 
 <param ve-config 
        title="Dutch Golden Age" 
-       banner="Bad Times" 
+       author="sarah"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Joannes_van_Deutecum_-_Leo_Belgicus_1650_-_published_by_Claes_Jansz_Visscher_Amsterdam.jpg/947px-Joannes_van_Deutecum_-_Leo_Belgicus_1650_-_published_by_Claes_Jansz_Visscher_Amsterdam.jpg" 
        layout="vertical">
        
 
